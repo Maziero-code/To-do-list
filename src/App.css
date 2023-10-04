@@ -6,6 +6,7 @@ color: #333;
 background-image: url(./IMG/jj-ying-7JX0-bfiuxQ-unsplash.jpg);
 background-position: center;
 background-size: cover;
+
 }
 
 
@@ -16,6 +17,7 @@ background-size: cover;
   padding: 20px 30px;
   border-radius: 10px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
 
 }
 
@@ -34,7 +36,7 @@ input{
 }
 
 button{
-  background-color: #333974;
+  background-color: #252525;
   color: #fff;
   padding: 5px 10px;
   margin-right: 10px;
